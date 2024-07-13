@@ -1,22 +1,22 @@
 {
-  "name": "Flash-Md",
+  "name": "Trills-MD",
   "version": "2.0.0",
   "description": "",
   "main": "flash.js",
   "scripts": {
     "test": "node flash.js",
     "s": "node flash.js",
-    "flash": "pm2 start flash.js --attach",
-    "franceking": "pm2 start franceking.js --attach",
+    "trills": "pm2 start flash.js --attach",
+    "trills": "pm2 start franceking.js --attach",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Flash",
+    "trills",
     "whatsapp",
     "whatsapp-bot",
-    "franceking1"
+    "trills"
   ],
   "author": "France King",
   "license": "ISC",
